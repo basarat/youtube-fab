@@ -18,5 +18,4 @@ However when you have a small screen the fab quite commonly ends up overlaying o
 
 The key message I want to convey here is that whenever you have a floating *forever shown* element on a page like a fab, make sure it is a part of your designs at each breakpoint, otherwise, you might just render your application unuseable. 
 
-> End screen
-As always, thanks for watching and have a great day.
+> End screen: As always, thanks for watching and have a great day.
