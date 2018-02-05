@@ -2,7 +2,7 @@
 
 > https://material.io/guidelines/components/buttons-floating-action-button.html
 
-The `fab` or `Floating Action Button` is a great UI design pattern that allows you to guide the user a to some key action in your application. 
+The `fab` or `Floating Action Button` is a great material UI design pattern that allows you to guide the user a to some key action in your application. 
 
 > https://www.zendesk.com/
 
