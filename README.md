@@ -16,6 +16,8 @@ When you have a large display it is easy to seperate the fab from the main conte
 ***Scroll down the page on a small screen***
 However when you have a small screen the fab quite commonly ends up overlaying over items in the footer, preventing click navigation to foother pages. The worst case is when you do not have a footer and there is a `next` button right at the end of the page and the fab overlays that button. 
 
+You can normally overcome this issue by leaving extra space down the bottom of the page on small screen sizes as this is the reserved row for the FAB.
+
 The key message I want to convey here is that whenever you have a floating *forever shown* element on a page like a fab, make sure it is a part of your designs at each breakpoint, otherwise, you might just render your application unuseable. 
 
 > End screen: As always, thanks for watching and have a great day.
